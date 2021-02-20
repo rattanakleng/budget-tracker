@@ -1,4 +1,5 @@
 # budget-tracker
+The app lets user to track their expenses and deposits to their budget with or without a connection. When the transactions enter when offline, the data wiill be populated and stored in local machine/inedexeddb. When user back online, the data will be sent to Mongo database.
 
 ## Table of Contents
 <p align="center">
@@ -26,7 +27,6 @@
 - [Installation](#installation)
 - [Webpage](#web-page)
 - [Repository and Live Site](#repository-and-live-site)
-- [Contributing](#contributing)
 
 ## Description
 Users can use the app to track workout plan. Workout data will be store a Mongo Database. The app allows user:
@@ -49,8 +49,9 @@ Setup a deployment, for example Heroku, and connect to database
 ## Web Page
 Page Layout: </br>
 
-
-
 ## Repository and Live Site
 Repository: https://github.com/rattanakleng/budget-tracker </br>
 Live Page: https://budget-tracker-web-application.herokuapp.com/
+
+
+
