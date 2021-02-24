@@ -25,7 +25,6 @@ The app lets user to track their expenses and deposits to their budget with or w
 - [Description](#description)
 - [User Story](#user-story)
 - [Installation](#installation)
-- [Webpage](#web-page)
 - [Repository and Live Site](#repository-and-live-site)
 
 ## Description
@@ -45,9 +44,6 @@ You should have NODE installed
 Install dependencies
 Setup MongoDB Atlas
 Setup a deployment, for example Heroku, and connect to database
-
-## Web Page
-Page Layout: </br>
 
 ## Repository and Live Site
 Repository: https://github.com/rattanakleng/budget-tracker </br>
